@@ -1,0 +1,172 @@
+.h0 {
+    height: 60px;
+    background-color: hsl(0, 4%, 16%);
+}
+.hi {
+    
+    display: flex;
+    align-items: center;
+}
+.h2 {
+    margin-top: -50px;
+    position: absolute;
+    right: 0;
+    color: #fff;
+}
+.button:hover{
+    background-color:rgb(255, 255, 255)
+}
+.button:active{
+    background-color: #000000;
+}
+.h3 {
+    margin-top: -45px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+}
+.hh {
+    padding-right: 20px;
+    
+    
+}
+.hh {
+    background-color: hsl(145, 100%, 18%);
+    padding: 20px;
+    border: 1px solid: hsl(145, 100%, 18%);
+    width: 500px;
+    height: 450px;
+    margin: 50px;
+    color: #ffffff;
+    font-size: 30px;
+    border-radius: 40px;
+    
+}
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}   
+.h {
+    background: linear-gradient(to bottom right, hsl(145, 100%, 18%), hsl(146, 100%, 3%));
+    color: #fff;
+    padding-left: 5%;
+    padding: 150px;
+    font-size: 30px;
+}
+.imgg{
+    text-align: right;
+    margin-top: 100px;
+    margin-right: 1000px;
+}
+.float-left{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.ttt{
+    float: left;
+    margin-right: 20px;
+    top: 100;
+    left: -5;
+    width: 400px;
+}
+.h0 .hh .hhh, .hhhh {
+    padding: 20px;
+}
+button{
+    cursor: pointer;
+    background-color: #1e0161;
+    color: #ffffff;
+    padding: 20px 25px;
+    border-radius: 10px;
+}
+button:active {
+    background-color: #2d00f3;
+}
+button:hover {
+    background-color: #0a0122;
+}
+.hhh {
+    position: absolute;
+    margin-bottom: -30px;
+    right: 0;
+    background-color: hsl(145, 100%, 18%);
+    padding: 20px;
+    border: 1px solid : hsl(145, 100%, 18%);
+    width: 500px;
+    height: 900px;
+    margin-top: -10px;
+    color: #ffffff;
+    font-size: 30px;
+    border-radius: 40px;
+}
+.hhhh {
+    padding-bottom: -100px;
+    background-color: hsl(145, 100%, 18%);
+    border: 1px solid: hsl(145, 100%, 18%);
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 1000px;
+    flex-direction: column;
+}
+.gg {
+    background-color: #1e0161;
+    color: #ffffff;
+    padding: 20px 25px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+
+
+.calculator {
+    background-color: hsl(145, 100%, 18%);
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    position: absolute;
+    top: 1700px;
+    left: 700px;
+}
+
+.put {
+    background-color: #1e0161;
+    color: #fff;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+    text-align: right;
+    font-size: 24px;
+}
+
+.b button {
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    font-size: 24px;
+}
+.giff{
+    position: absolute;
+    top: 1900px;
+    left: 10px;
+}
+.gif{
+    position: absolute;
+    top: 1800px;
+    left: 10px;
+    width: 400px;
+    height: 400px;
+}
+
+.float-left {
+    float: left;
+    shape-outside: url(cope.jpg);
+    position: relative;
+    left: -20px;
+    margin: 7px, 15px;
+}
